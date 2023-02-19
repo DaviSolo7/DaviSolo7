@@ -1,4 +1,4 @@
-### Olá eu sou o Davi Solo, Programador 👋
+###              Davi Solo
 
 <!--
 **DaviSolo7/DaviSolo7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
