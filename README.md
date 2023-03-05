@@ -18,7 +18,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=100&color=72CF4EFF&repeat=false&width=435&lines=Social&font=Fira%20Code&center=true&width=380&height=50"/></a>
   
 <div align="center"> 
- <a href="www.instagram.com/davisolo.py/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=black&logo=instagram&logoColor=white" target="_blank"></a>
+ <a href="https://www.instagram.com/davisolo.py" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=black&logo=instagram&logoColor=white" target="_blank"></a>
 <a href = "mailto:davidevbusiness@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=pinkge&logo=gmail&logoColor=red" target="_blank"></a>
 <a href="https://www.linkedin.com/in/davi-solo-5a8861230/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=red&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
  </div>
