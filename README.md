@@ -1,19 +1,25 @@
-### Davi Solo
-
-Eu sou um estudante de Tecnologia da Informação na Universidade Paulista - UNIP. Busco cada vez mais me aprimorar, aprendendo coisas novas e me dedicando muito em áreas que já tenho conhecimento.
-
-
-![Davi Solo GitHub stats](https://github-readme-stats.vercel.app/api?username=DaviSolo7&show_icons=true&theme=dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DaviSolo7&layout=compact)](https://github.com/DaviSolo7/github-readme-stats)
-
-### Skills
-<div style="display: inline_block"><br/><img align="center" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img align="center" alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" /> <img align="center" alt="SQL" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />  </div>
+# Davi Solo
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Josefin+Sans&weight=500&size=20&duration=4888&pause=400&color=72CF4EFF&width=435&lines=Sejam+bem+vindos+ao+meu+perfil.;Eu+sou+Davi+Solo+;Programador+em+Python,+C+e+SQL;&font=Fira%20Code&center=true&width=380&height=50"/></a>
 
 
-<br>
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=DaviSolo7&show_icons=true&count_private=true&hide_border=true&title_color=72CF4EFF&icon_color=FF8C37DF&text_color=74D24F7B&bg_color=0d1117" alt="Davi Solo Github Stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaviSolo7&layout=compact&hide_border=true&title_color=72CF4EFF&text_color=c9d1d9&bg_color=0d1117" />
 
-### Social 
-<br>
+#
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davi-solo-5a8861230/)
-<a href = "mailto:davidevbusiness@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=100&color=72CF4EFF&repeat=false&width=435&lines=Skills&font=Fira%20Code&center=true&width=380&height=50"/></a>
+ 
+![Python](https://img.shields.io/badge/Python-FFD43B?style=transparent&logo=python&logoColor=blue)&nbsp;
+![C](https://img.shields.io/badge/C-00599C?style=transparent&logo=c&logoColor=white)&nbsp;
+![SQL](https://img.shields.io/badge/MySQL-005C84?style=pink&logo=mysql&logoColor=white)&nbsp;
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=100&color=72CF4EFF&repeat=false&width=435&lines=Social&font=Fira%20Code&center=true&width=380&height=50"/></a>
+  
+<div align="center"> 
+<a href="https://instagram.com/davisolo.py/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%2365647C?style=transparent&logo=instagram&logoColor=BB4141FF"></a>
+<a href = "mailto:davidevbusiness@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=pinkge&logo=gmail&logoColor=red" target="_blank"></a>
+<a href="https://www.linkedin.com/in/davi-solo-5a8861230/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=red&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
+ </div>
+  
