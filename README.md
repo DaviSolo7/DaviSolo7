@@ -25,4 +25,4 @@
   
   #
   
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Philosopher&size=20&color=72CF4EFF&duration=4000&pause=4000&width=435&lines=Fiel+%C3%A9+Deus&aligned&font=Fira%20Code&center=true&width=380&height=50"/></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Philosopher&size=13&color=72CF4EFF&duration=4000&pause=4000&width=435&lines=Fiel+%C3%A9+Deus&aligned&font=Fira%20Code&center=true&width=380&height=50"/></a>
