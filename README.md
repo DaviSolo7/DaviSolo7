@@ -4,7 +4,7 @@
 
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=davisolo7&show_icons=true&count_private=true&hide_border=true&title_color=72CF4EFF&icon_color=FF8C37DF&text_color=74D24F7B&bg_color=0d1117" alt="Davi Solo Github Stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=DaviSolo7&show_icons=true&count_private=true&hide_border=true&title_color=72CF4EFF&icon_color=FF8C37DF&text_color=74D24F7B&bg_color=0d1117" alt="Davi Solo Github Stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davisolo7&layout=compact&hide_border=true&title_color=72CF4EFF&text_color=c9d1d9&bg_color=0d1117" />
 
 #
